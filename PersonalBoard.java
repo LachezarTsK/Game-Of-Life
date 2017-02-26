@@ -3,6 +3,8 @@ import java.awt.Graphics;
 import java.util.Scanner;
 import java.util.Random;
 
+/*those methods that have no explanation here are described in
+abstract class GameOfLifeBoard*/
 public class PersonalBoard extends GameOfLifeBoard {
 
     private Scanner reader;
