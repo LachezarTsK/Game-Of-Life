@@ -1,7 +1,7 @@
 public class calculateNumberOfLivingNeighbours {
 
-/*Implementation of three separate methods for checking the position of each cell, 
-instead of using one method that implements "!=null" checks for the neighbouring cells. 
+/*Three separate methods for checking the position of each cell instead of using one method 
+that implements "!=null" checks for the neighbouring cells. 
 The total number of checks through such three methods is less than the total checks 
 through one method with "!=null" checks, provided that the playing field has sides 
 equal or greater than 5 and the methods are implemented in the following order:
