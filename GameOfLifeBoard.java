@@ -11,8 +11,7 @@ public abstract class GameOfLifeBoard {
      /* fieldLength is used in class UserInterface to set the size 
     of the frame that displays the playing field. It is initialized here 
     in order to set the diameter of the cells in proportion
-    to the size of the frame, thus setting the total number of cells, as well as 
-    to set the actual size of the playing field */
+    to the size of the frame and to set the actual size of the playing field */
     private int fieldLength;
     /*diameter of the cell*/
     private int diameter;
